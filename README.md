@@ -1,5 +1,7 @@
 # Modified Turborepo starter updated with Yarn Berry zero-installs
 
+This is a modified Turborepo starter. The full tutorial with step-by-step instructions can be found on [wheresbaldo.dev](https://wheresbaldo.dev/tech/monorepos/update-turborepo-to-use-yarn-berry).
+
 **Note:** This is **NOT** an official Turborepo starter, refer to https://github.com/vercel/turbo for the official ones.
 
 ## Modifications
@@ -66,4 +68,6 @@ yarn dev
 
 ### Further info
 
-Refer to the official [Turborepo github](https://github.com/vercel/turbo) for the full documentation.
+View the full tutorial on [wheresbaldo.dev](https://wheresbaldo.dev/tech/monorepos/update-turborepo-to-use-yarn-berry) for instructions on how to build this form from scratch.
+
+Refer to the official [Turborepo github](https://github.com/vercel/turbo) for the original Vercel documentation.
